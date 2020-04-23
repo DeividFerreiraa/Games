@@ -1,2 +1,0 @@
-# Games
-simple Snake game
